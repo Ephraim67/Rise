@@ -1,0 +1,11 @@
+HTTrack3.49-5 launched on Wed, 12 Jun 2024 11:01:43 at https://www.risemarketing.shop/page/starting
+(winhttrack https://www.risemarketing.shop/page/starting -O "/home/defi/websites/risemarketing" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-5 mirror complete in 4 seconds : 2 links scanned, 1 files written (2398 bytes overall) [2936 bytes received at 734 bytes/sec], 3434 bytes transferred using HTTP compression in 2 files, ratio 54%
+(No errors, 0 warnings, 0 messages)

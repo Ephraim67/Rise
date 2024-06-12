@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:01:45	2398/2398	---MCZ	200	added ('OK')	text/html	etag:W/%22a6a9686e63ca62f2c577d7116a9e8e41%22	https://www.risemarketing.shop/page/starting	/home/defi/websites/risemarketing/www.risemarketing.shop/page/starting	(from )
+11:01:47	1036/1036	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%2254a7af437fe529e435306a8db1a9a6bd%22	https://www.risemarketing.shop/robots.txt		(from )
